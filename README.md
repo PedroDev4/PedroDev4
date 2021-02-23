@@ -2,7 +2,8 @@
 # Pedro Martins
 
 ## Eaii Dev's 👋
-Sou casado com desenvolvimento e apaixonado por programação :)
+Apaixonado por tecnologia desde pequeno, Cresci vendo o mundo da tecnologia e dos Games evoluirem muito. Ao longo do tempo descobri a área do desenvolvimento... Hoje em dia sou casado com Desenvolvimento :) 
+
 Sou um Back-end Developer :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **Framework Systems**
